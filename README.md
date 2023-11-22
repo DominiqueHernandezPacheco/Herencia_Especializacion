@@ -1,4 +1,4 @@
-Ejemplo 1 (Empleado)= 4 archivos: Empleados,EmpleadoControladora,Desarrollador y Gerente
+Ejemplo 1 (Empleado)= 4 archivos: Empleado,EmpleadoControladora,Desarrollador y Gerente
 
 
 Ejemplo 2 (Vehiculos)= 4 archivos: Vehiculos, VehiculosControladora, Coche, Motocicleta
